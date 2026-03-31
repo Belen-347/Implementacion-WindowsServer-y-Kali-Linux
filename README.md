@@ -1,7 +1,7 @@
 # Implementacion Windows Server y Kali Linux
 Este repositorio contiene la documentación detallada del proceso de configuración de un servidor bajo los requerimientos de la evaluación.
 
-# Implementacion-WindowsServer-2016
+# WindowsServer-2016
 Este repositorio contiene la documentación detallada del proceso de configuración de un servidor bajo los requerimientos de la evaluación.
 
 Sistema Operativo: Windows Server 2016 Standard (Desktop Experience).
@@ -19,7 +19,7 @@ Acceso Remoto: Se ha habilitado y configurado el protocolo RDP (Remote Desktop P
 
 
 
-# Implementacion- Kali Linux
+# Kali Linux
 Sistema Operativo: Linux / Debian (64-bit).
 Memoria RAM: 8 GB.
 Almacenamiento: 30 GB.
